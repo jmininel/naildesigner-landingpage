@@ -92,7 +92,7 @@
      DOURADO PRINCIPAL
      ========================= */
 
-  --primary: oklch(0.731 0.112 84);
+  --primary: oklch(0.725 0.100 82.35);
   --primary-foreground: oklch(0.10 0.012 55);
 
 
@@ -253,9 +253,14 @@
   html {
     @apply font-sans;
     scroll-behavior: smooth;
+    scroll-padding-top: 90px;
   }
 
   body {
     @apply bg-background text-foreground antialiased;
+  }
+
+  a {
+    scroll-behavior: smooth;
   }
 }
