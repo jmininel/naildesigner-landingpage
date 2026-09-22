@@ -28,7 +28,7 @@ npm start        # inicia a versão de produção
 
 ## Preview
 
-![Mi Gomes Nail Designer](public/gallery/bannerNail.jpg)
+![Mi Gomes Nail Designer](public/gallery/NailDesign.gif)
 
 ## Autoria
 
